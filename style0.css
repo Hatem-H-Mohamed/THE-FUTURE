@@ -8,7 +8,7 @@
     height: 100vh;
     background: url(pexels.jpeg) no-repeat;
     background-size: cover;
-    background-position: -200px;
+    background-position: center;
 }
 
 .navbar{
